@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pallawikumari
 - 👀 I’m interested in Structural biology, Genomics, proteomics and big data analysis
-- 🌱 I’m currently learning simulation
+- 🌱 PhD Studnet 
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me ...
 
